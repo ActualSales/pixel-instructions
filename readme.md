@@ -59,8 +59,7 @@ Note that you also need to replace the following parameters with the ones you've
 - argmon = This parameter does not need to be replaced. Leave it as it is.
 
 PHP Example:
-```php
-
+```
 //Variables
 $url = 'http://actualsalesdomainname.com/conv.php?cpnid=12345678910&arg=XXX&argmon=YYY';
 $userEmail = 'testuser@testdomain.com';
